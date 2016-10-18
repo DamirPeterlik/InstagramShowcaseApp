@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "__40-[UserProfileViewController setUserData]_block_invoke_2:UserProfileViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "mediaCountArray">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__40-[UserProfileViewController setUserData]_block_invoke:UserProfileViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "instagramUser">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[HeaderViewCollectionReusableView setHeaderViewWith:]:HeaderViewCollectionReusableView.m">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
